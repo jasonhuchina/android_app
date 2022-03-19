@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/bootstrap3/version.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.commonplgn</package_name><!--注意这个字段是commonplgn，按照该字段创建目录-->
+     <application>commonplugin</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>3.2.0.3</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>faf4ff64162d79459a19402f57112fcc</md5_apk><!--更apk文件时会参考这个字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/commonplugin-v7/commonplugin.apk</url_apk>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/commonplugin-v7/version.xml</url_version>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/commonplugin-v7/commonplugin.apk</url_apk>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/commonplugin-v7/version.xml</url_version>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/commonplugin-v7/commonplugin.apk?viasf=1</url_apk>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/commonplugin-v7/version.xml?viasf=1</url_version>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

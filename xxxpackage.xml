@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/bootstrap3/version.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+
+<configuration>
+
+<package>
+    <package_name>com.jigsawdraw</package_name>
+     <application>JigDraw</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>2.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>49b7dbd62df7086954c6bb318898c9a8</md5_apk><!--UPDATE_PLUGIN_APK时参考该字段-->
+       <md5_video>cd9c6058b309baf09290ad5e77f62580</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/android-jigsaw-puzzle/android-jigsaw-puzzle.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/android-jigsaw-puzzle/android-jigsaw-puzzle.apk</url_apk_share>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/android-jigsaw-puzzle/android-jigsaw-puzzle.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/android-jigsaw-puzzle/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/android-jigsaw-puzzle/android-jigsaw-puzzle.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/android-jigsaw-puzzle/android-jigsaw-puzzle.apk</url_apk_share>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/android-jigsaw-puzzle/android-jigsaw-puzzle.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/android-jigsaw-puzzle/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/android-jigsaw-puzzle/android-jigsaw-puzzle.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/android-jigsaw-puzzle/android-jigsaw-puzzle.apk</url_apk_share>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/android-jigsaw-puzzle/android-jigsaw-puzzle.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/android-jigsaw-puzzle/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>dragosholban.com.androidpuzzlegame</package_name>
+     <application>AndroidPuzzleGame</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>1.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>3b6ad521ab58e426fcba29ddadd12287</md5_apk><!--UPDATE_PLUGIN_APK时参考该字段-->
+       <md5_video>b30ef2cd37bfe82e5801a6ad65c41be5</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/AndroidPuzzleGame/AndroidPuzzleGame.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/AndroidPuzzleGame/AndroidPuzzleGame.apk</url_apk_share>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/AndroidPuzzleGame/AndroidPuzzleGame.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/AndroidPuzzleGame/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/AndroidPuzzleGame/AndroidPuzzleGame.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/AndroidPuzzleGame/AndroidPuzzleGame.apk</url_apk_share>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/AndroidPuzzleGame/AndroidPuzzleGame.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/AndroidPuzzleGame/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/AndroidPuzzleGame/AndroidPuzzleGame.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/AndroidPuzzleGame/AndroidPuzzleGame.apk</url_apk_share>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/AndroidPuzzleGame/AndroidPuzzleGame.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/AndroidPuzzleGame/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>de.tobiasbielefeld.brickgames</package_name>
+     <application>BrickGame</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>3.2.0.3</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>25f35d6ce554666639b65fa39c3883b7</md5_apk><!--UPDATE_PLUGIN_APK时参考该字段-->
+       <md5_image>b549fac25ba961211588567eb2dfda32</md5_image><!--0--><!--UPDATE_RESOURCES时参考该字段-->
+       <md5_image>b549fac25ba961211588567eb2dfda32</md5_image><!--1-->
+       <md5_image>46772774de73d3b629ff7229b94eb20c</md5_image><!--2-->
+       <md5_image>bfeca55d7868e6febf0a1aafa748f50e</md5_image><!--3-->
+       <md5_image>0e36449b982d08dd3f5548d65e93695a</md5_image><!--4-->
+       <md5_video>8982abe18f10826009b1e7f0afada5ed</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame-1.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame-2.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame-3.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame-4.png</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/girl.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/BrickGame.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/BrickGame.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/BrickGame-1.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/BrickGame-2.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/BrickGame-3.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/BrickGame-4.png</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/girl.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/BrickGame/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/BrickGame/BrickGame.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/BrickGame/BrickGame.apk</url_apk_share>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/BrickGame/BrickGame.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/BrickGame/BrickGame-1.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/BrickGame/BrickGame-2.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/BrickGame/BrickGame-3.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/BrickGame/BrickGame-4.png?viasf=1</url_image>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/BrickGame/girl.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/BrickGame/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>com.quchen.flappycow</package_name>
+     <application>Flutter Cow</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>5.4.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>1205db09050e8a71157413c52c4f9f38</md5_apk>
+       <md5_video>1baf318830b291f623d4260fcaa2447a</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/flappycow/flappycow.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/flappycow/flappycow.apk</url_apk_share>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/flappycow/flappycow.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/flappycow/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/flappycow/flappycow.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/flappycow/flappycow.apk</url_apk_share>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/flappycow/flappycow.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/flappycow/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/flappycow/flappycow.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/flappycow/flappycow.apk</url_apk_share>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/flappycow/flappycow.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/flappycow/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>com.ispring.gameplane</package_name>
+     <application>GamePlane</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>1.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>b3aa5deeb6cdc5ad2800906ee380c058</md5_apk>
+       <md5_video>75d8a3161aaf021b2fead46514f5565a</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/GamePlane/GamePlane.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/GamePlane/GamePlane.apk</url_apk_share>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/GamePlane/GamePlane.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/GamePlane/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/GamePlane/GamePlane.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/GamePlane/GamePlane.apk</url_apk_share>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/GamePlane/GamePlane.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/GamePlane/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/GamePlane/GamePlane.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/GamePlane/GamePlane.apk</url_apk_share>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/GamePlane/GamePlane.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/GamePlane/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>dev.lonami.klooni</package_name>
+     <application>klooni</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>3.2.0.3</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>fcb357645dd513a692e5b6f3ebcc6335</md5_apk><!--UPDATE_PLUGIN_APK时参考该字段-->
+       <md5_image>9dfeab29d3c1bde557d31693dc3a9b3a</md5_image><!--0--><!--UPDATE_RESOURCES时参考该字段-->
+       <md5_image>9fdeb152a76d71268fa55064218d19fa</md5_image><!--1-->
+       <md5_image>ca633550d7bdb60174ea2f5004ae90ea</md5_image><!--2-->
+       <md5_image>b6aa3186f34f093cf512c2b804178c46</md5_image><!--3-->
+       <md5_image>35768e74d8fe200653032f95c11ec153</md5_image><!--4-->
+       <md5_video>01e0052c337f8440cf96ed7489e3f77f</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni-1.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni-2.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni-3.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni-4.png</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/shuping.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/klooni.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/klooni.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/klooni-1.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/klooni-2.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/klooni-3.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/klooni-4.png</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/shuping.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/klooni/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/klooni/klooni.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/klooni/klooni.apk</url_apk_share>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/klooni/klooni.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/klooni/klooni-1.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/klooni/klooni-2.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/klooni/klooni-3.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/klooni/klooni-4.png?viasf=1</url_image>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/klooni/shuping.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/klooni/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>com.qiuqiusoftware.bouncy</package_name>
+     <application>Vector-Pinball</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>3.2.0.3</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>7f7c8983e5ee20a3f51eec26239dc9b3</md5_apk>
+       <md5_image>7ae0f52eeedfcf2e4bd8abc472a41955</md5_image><!--0--><!--UPDATE_RESOURCES时参考该字段-->
+       <md5_image>3b70fefc8122f191814c07d707dd1f79</md5_image><!--1-->
+       <md5_image>566ce2cc144d95e3f43e94534353a977</md5_image><!--2-->
+       <md5_image>8cc409c67c26ca641ec381d6245b95dd</md5_image><!--3-->
+       <md5_image>30d3b458649e3f0c0f41d9049c75dfd3</md5_image><!--4-->
+       <md5_image>e1fa779eca19cefb519905f026a6bdf7</md5_image><!--5-->
+       <md5_image>aed7cd048c728fb20405dd4f153bc520</md5_image><!--6-->
+       <md5_image>36a06e52533399923a56640882c6848d</md5_image><!--7-->
+       <md5_image>9d47dafb3e1a29e63e1e58231ed7a0c4</md5_image><!--8-->
+       <md5_video>3b599b4328458219761c2313e6d8eb79</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-1.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-2.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-3.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-4.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-5.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-6.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-7.png</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball-8.png</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/henping.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-1.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-2.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-3.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-4.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-5.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-6.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-7.png</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/Vector-Pinball-8.png</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/henping.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Vector-Pinball/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball.apk</url_apk_share>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-1.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-2.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-3.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-4.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-5.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-6.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-7.png?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball-8.png?viasf=1</url_image>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/henping.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+<package>
+    <package_name>com.qiuqiusoftware.thirtynineeightytanks</package_name>
+     <application>thirtynineeightytanks</application>
+            <type>plugins.themes</type>
+         <version>3.2.0.3</version><!--备用字段-->
+         <release>2.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>3b6ad521ab58e426fcba29ddadd12287</md5_apk><!--UPDATE_PLUGIN_APK时参考该字段-->
+       <md5_video>b30ef2cd37bfe82e5801a6ad65c41be5</md5_video><!--UPDATE_RESOURCES时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks-8.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks-8.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/thirtynineeightytanks.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/thirtynineeightytanks/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks.apk?viasf=1</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/thirtynineeightytanks/thirtynineeightytanks.apk</url_apk_share>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-1.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-2.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-3.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-4.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-5.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-6.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-7.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks-8.jpg?viasf=1</url_image>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/thirtynineeightytanks.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/thirtynineeightytanks/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
+
+</configuration>
+
+    <!--x
+    <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/Vector-Pinball.png</url_image>
+    <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/background.jpg</url_image>
+    <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/小乔.jpg<</url_image>
+    <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Vector-Pinball/%E5%B0%8F%E4%B9%94.jpg</url_image>
+    -->
+    <!--x
+    <url_image>https://jztkft.dl.sourceforge.net/project/android-app/Vector-Pinball/xiaoqiao.jpg</url_image>
+    <url_image>https://master.dl.sourceforge.net/project/android-app/Vector-Pinball/Vector-Pinball.png?viasf=1</url_image>
+    <url_image>https://jztkft.dl.sourceforge.net/project/android-app/Vector-Pinball/app-debug.apk?viasf=1</url_image>
+    -->

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/bootstrap3/version.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.thirtynineeightytanks</package_name>
+     <application>Tanks</application>
+            <type>plugins.themes</type>
+         <version>1.0</version><!--备用字段-->
+         <release>1.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>19b4a9e30eb615e5896f5562c7be19af</md5_apk>
+       <md5_image>ac102e4704536facbec04a800047251a</md5_image><!--0--><!--UPDATE_IMAGE时参考该字段-->
+       <md5_image>dd986c23f2f9c397884fce12aa14f5cb</md5_image><!--1-->
+       <md5_image>aaa9f82996cab71341e1057c64e2398e</md5_image><!--2-->
+       <md5_image>fc3eb186b9f90deedafd2094ad455638</md5_image><!--3-->
+       <md5_image>ab4a6ebe23d2b228069f8c96b33743b1</md5_image><!--4-->
+       <md5_image>ae7c9737d97b9c04bf77253778ce317a</md5_image><!--5-->
+       <md5_image>78c60e6d29499630a33e1547eeed54f3</md5_image><!--6-->
+       <md5_image>6935e24f2f2b895357668caf47349966</md5_image><!--7-->
+       <md5_image>13ee1195099f115e06b73585a1904f0b</md5_image><!--8-->
+       <md5_video>55a95213a0ac971dfe195b3017fad51b</md5_video><!--UPDATE_VIDEO时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks-8.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/Tanks.mp4</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/Tanks/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks-8.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/Tanks.mp4</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/Tanks/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks.apk?viasf=1</url_apk>
+   <url_apk_share>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks.apk?viasf=1</url_apk_share>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-1.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-2.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-3.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-4.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-5.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-6.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-7.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks-8.jpg?viasf=1</url_image>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/Tanks/Tanks.mp4?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/Tanks/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

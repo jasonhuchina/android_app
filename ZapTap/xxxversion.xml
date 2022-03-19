@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/bootstrap3/version.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.zaptap</package_name>
+     <application>ZapTap</application>
+            <type>plugins.themes</type>
+         <version>1.0.1</version><!--备用字段-->
+         <release>1.0.1</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>c4a338ccc2c19c6599c42765d31218b5</md5_apk>
+       <md5_image>ebd27530279a3e84d6e4b9287a120680</md5_image><!--0--><!--UPDATE_IMAGE时参考该字段-->
+       <md5_image>7241fbd66a467fe03fbecac30c60fafe</md5_image><!--1-->
+       <md5_image>54b2d022ea9c83f7af482f64981bf448</md5_image><!--2-->
+       <md5_image>036e13a1523396ce569419fb7e071fa4</md5_image><!--3-->
+       <md5_image>af9ad26982a339c894aa7a19a6e7a496</md5_image><!--4-->
+       <md5_image>46355f419f7811f62810b76a4ffda476</md5_image><!--5-->
+       <md5_image>c0832331cfc7da229e041faed1bd179b</md5_image><!--6-->
+       <md5_image>dae7bde29fc157e7fb6157ea21262791</md5_image><!--7-->
+       <md5_image>236b2417f1edacce8abd6438c8a66950</md5_image><!--8-->
+       <md5_video>5664047a724cec69ef641d644ebda9ea</md5_video><!--UPDATE_VIDEO时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap-8.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/ZapTap.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/ZapTap/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap-8.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/ZapTap.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/ZapTap/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap.apk?viasf=1</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap.apk?viasf=1</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-1.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-2.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-3.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-4.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-5.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-6.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-7.jpg?viasf=1</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap-8.jpg?viasf=1</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/ZapTap.mkv?viasf=1</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/main/tree/ZapTap/version.xml?viasf=1</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/main/tree/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/bootstrap3/version.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.fruitninja</package_name>
+     <application>FruitNinja</application>
+            <type>plugins.themes</type>
+         <version>1.0</version><!--备用字段-->
+         <release>1.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>e419787d48b9cc5407bd8d70b91834ea</md5_apk>
+       <md5_image>8b327de74f0de095883e4c11ea6d7fdf</md5_image><!--0--><!--UPDATE_IMAGE时参考该字段-->
+       <md5_image>666798b2b5381247a4f812f4b4a6649a</md5_image><!--1-->
+       <md5_image>a7b94917849e3002955bb91ce3ef7768</md5_image><!--2-->
+       <md5_image>87708fb57e4a77a948ad8bd73f4f6e44</md5_image><!--3-->
+       <md5_image>305e5071b6c0e691a3021ae8499450ef</md5_image><!--4-->
+       <md5_image>31ce9e07832fe02dc90538f6ebfe7442</md5_image><!--5-->
+       <md5_image>ac5738e89074ea1b13fc97e86507e2bd</md5_image><!--6-->
+       <md5_image>2423500f520a76877b3cf26459f52ab4</md5_image><!--7-->
+       <md5_image>434d081ddfc89e08675893e92bda561f</md5_image><!--8-->
+       <md5_video>0b0f040907d13567e3a8b6244ee5737c</md5_video><!--UPDATE_VIDEO时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-1.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-2.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-3.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-4.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-5.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-6.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-7.JPG</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja-8.JPG</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/FruitNinja.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FruitNinja/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-1.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-2.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-3.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-4.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-5.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-6.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-7.JPG</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja-8.JPG</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/FruitNinja.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FruitNinja/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-1.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-2.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-3.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-4.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-5.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-6.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-7.JPG?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja-8.JPG?format=raw</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/FruitNinja.mkv?format=raw</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/main/tree/FruitNinja/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/main/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

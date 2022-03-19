@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * plugins/generic/bootstrap3/version.xml
+  *
+  * Copyright (c) 2014-2017 Simon Fraser University Library
+  * Copyright (c) 2003-2017 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Plugin version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.flappycow</package_name>
+     <application>FlutterCow</application>
+            <type>plugins.themes</type>
+         <version>3.4.0</version><!--备用字段-->
+         <release>3.4.0</release><!--apk release,UPDATE_APK时参考该字段-->
+          <!--0-->
+         <md5_apk>71121e33153c9e3b403a07b27923a2d8</md5_apk>
+       <md5_image>dad03a20354c767c8786ce014fc5093c</md5_image><!--0--><!--UPDATE_IMAGE时参考该字段-->
+       <md5_image>9807ea62fc0c96947e67453797e7b12c</md5_image><!--1-->
+       <md5_image>d882ac423d6f4d2cf02ba2d38ed8cd40</md5_image><!--2-->
+       <md5_image>9f4ceee4ce565fd7e6510da778db4da6</md5_image><!--3-->
+       <md5_image>d5d14c84105e241b86283f0bf57d0441</md5_image><!--4-->
+       <md5_image>a1b181b6b684be14f8457d0dddb020de</md5_image><!--5-->
+       <md5_video>e0360d93cdc3d291cae1c5ac593670d7</md5_video><!--UPDATE_VIDEO时参考该字段-->
+    <time_version>2021-06-26 11:41</time_version><!--备用字段,更新version.xml时会参考FileMD5-->
+    <time_package>2021-06-26 11:41</time_package><!--备用字段,更新package.xml时会参考FileMD5-->
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow-5.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/FlutterCow.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/main/FlutterCow/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/main/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow-5.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/FlutterCow.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/FlutterCow/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/main/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow.apk?viasf=1</url_apk>
+   <url_apk_share>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow.apk?viasf=1</url_apk_share>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow-1.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow-2.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow-3.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow-4.jpg?viasf=1</url_image>
+       <url_image>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow-5.jpg?viasf=1</url_image>
+       <url_video>https://master.dl.sourceforge.net/project/android-app/FlutterCow/FlutterCow.mkv?viasf=1</url_video>
+     <url_version>https://master.dl.sourceforge.net/project/android-app/FlutterCow/version.xml?viasf=1</url_version>
+     <url_package>https://master.dl.sourceforge.net/project/android-app/package.xml?viasf=1</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
