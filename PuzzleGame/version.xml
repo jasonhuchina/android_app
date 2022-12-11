@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  * 说明
+  *
+  * <package_name>app按照该字段创建目录
+  * <version>备用字段
+  * <release>UPDATE_APK时参考该字段
+  * <md5_apk>更新commonplgn apk文件时参考该字段
+  * <md5_image>UPDATE_IMAGE时参考该字段
+  * <md5_video>UPDATE_VIDEO时参考该字段
+  * <time_version>备用字段
+  * <time_package>备用字段
+  * <url_version>是primary文件，不要修改路径及文件名比较好一些
+  * 更新version.xml时会参考FileMD5
+  * 更新package.xml时会参考FileMD5
+  *
+  * Copyright (c) 2014-2017 qiuqiu software
+  * Copyright (c) 2003-2017 Jason Hu
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.puzzlegame</package_name>
+     <application>PuzzleGame</application>
+            <type>plugins.themes</type>
+         <version>1.0.1</version>
+         <release>1.0.1</release>
+          <!--0-->
+         <md5_apk>deadbeefdeadbeefdeadbeefdeadbeef</md5_apk>
+       <md5_image>7a28ba50ab40e3c4938420ce8a16bda6</md5_image><!--0-->
+       <md5_image>11d1d8281bd16f84ccf461d3d94ea96a</md5_image><!--1-->
+       <md5_image>2f71939992c0c72125fa295d8b801eb6</md5_image><!--2-->
+       <md5_image>2419eaf0dd4e0eebfef86fe532cf9893</md5_image><!--3-->
+       <md5_image>95630d42c2e04207bd8a9e71b3411b28</md5_image><!--4-->
+       <md5_image>a26e7234ca7532bcaf2e87d6b21dc4d4</md5_image><!--5-->
+       <md5_video>470e334141949e69a6636fca73f180e6</md5_video>
+    <time_version>2021-06-26 11:41</time_version>
+    <time_package>2021-06-26 11:41</time_package>
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame-5.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/PuzzleGame.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221122/PuzzleGame/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20220305/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame-5.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/PuzzleGame.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221122/PuzzleGame/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20220305/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame-1.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame-2.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame-3.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame-4.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame-5.jpg?format=raw</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/PuzzleGame.mkv?format=raw</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/game_20221122/tree/PuzzleGame/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/game_20220305/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

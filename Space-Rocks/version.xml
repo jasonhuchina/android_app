@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  * 说明
+  *
+  * <package_name>app按照该字段创建目录
+  * <version>备用字段
+  * <release>UPDATE_APK时参考该字段
+  * <md5_apk>更新commonplgn apk文件时参考该字段
+  * <md5_image>UPDATE_IMAGE时参考该字段
+  * <md5_video>UPDATE_VIDEO时参考该字段
+  * <time_version>备用字段
+  * <time_package>备用字段
+  * <url_version>是primary文件，不要修改路径及文件名比较好一些
+  * 更新version.xml时会参考FileMD5
+  * 更新package.xml时会参考FileMD5
+  *
+  * Copyright (c) 2014-2017 qiuqiu software
+  * Copyright (c) 2003-2017 Jason Hu
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.spacerocks</package_name>
+     <application>Space-Rocks</application>
+            <type>plugins.themes</type>
+         <version>1.06</version>
+         <release>1.06</release>
+          <!--0-->
+         <md5_apk>deadbeefdeadbeefdeadbeefdeadbeef</md5_apk>
+       <md5_image>79ae2af7afad07d114a39b08e75c99b8</md5_image><!--0-->
+       <md5_image>137a40ffc67b10e0a17f506bcfb69baa</md5_image><!--1-->
+       <md5_image>24ee5bc6c6b38519da32098edc7434bb</md5_image><!--2-->
+       <md5_image>b128f34a845e80fb2e5b016aff26f04d</md5_image><!--3-->
+       <md5_image>5d8a11c5b0b0baf287b20b253d28537f</md5_image><!--4-->
+       <md5_image>33188a327b2bc5ac6661d239dd1d292f</md5_image><!--5-->
+       <md5_image>df4215dacd37e3667e0f1eae0c909374</md5_image><!--6-->
+       <md5_image>bd25e3ede5f5eabe4c4193283e9b1e0a</md5_image><!--7-->
+       <md5_image>a9055fa208dfa30465b4450aa3df8418</md5_image><!--8-->
+       <md5_image>af91456d6ee584f44ded2e242e565622</md5_image><!--9-->
+       <md5_image>3a643a7241b14d6970c7637f4eda63a6</md5_image><!--10-->
+       <md5_image>b8dc73d40be28f32803ba270e908d317</md5_image><!--11-->
+       <md5_image>9f716d64e18fda9fc5296c1740911b9a</md5_image><!--12-->
+       <md5_video>e0c5fbffa62052ece426257ec7f38a7c</md5_video>
+    <time_version>2021-06-26 11:41</time_version>
+    <time_package>2021-06-26 11:41</time_package>
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-8.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-9.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-10.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-11.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks-12.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/Space-Rocks.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Space-Rocks/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20220305/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-8.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-9.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-10.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-11.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks-12.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/Space-Rocks.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Space-Rocks/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20220305/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-1.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-2.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-3.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-4.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-5.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-6.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-7.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-8.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-9.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-10.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-11.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks-12.jpg?format=raw</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/Space-Rocks.mkv?format=raw</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Space-Rocks/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/game_20220305/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

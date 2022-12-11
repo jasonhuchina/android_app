@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  * 说明
+  *
+  * <package_name>app按照该字段创建目录
+  * <version>备用字段
+  * <release>UPDATE_APK时参考该字段
+  * <md5_apk>更新commonplgn apk文件时参考该字段
+  * <md5_image>UPDATE_IMAGE时参考该字段
+  * <md5_video>UPDATE_VIDEO时参考该字段
+  * <time_version>备用字段
+  * <time_package>备用字段
+  * <url_version>是primary文件，不要修改路径及文件名比较好一些
+  * 更新version.xml时会参考FileMD5
+  * 更新package.xml时会参考FileMD5
+  *
+  * Copyright (c) 2014-2017 qiuqiu software
+  * Copyright (c) 2003-2017 Jason Hu
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.match3game</package_name>
+     <application>Match3game</application>
+            <type>plugins.themes</type>
+         <version>1.0.1</version>
+         <release>1.0.1</release>
+          <!--0-->
+         <md5_apk>deadbeefdeadbeefdeadbeefdeadbeef</md5_apk>
+       <md5_image>c3f0298ab5f09fdcbc51015ce309a6d3</md5_image><!--0-->
+       <md5_image>1f7674374b8e295ec7b654d32ed550ba</md5_image><!--1-->
+       <md5_image>32b17f983b296c3aa7d33bd742d73037</md5_image><!--2-->
+       <md5_image>e1b9d2cab28c17ca96bd831129aa766d</md5_image><!--3 -->
+       <md5_image>babeae911b256bd862119aa7cdc27b75</md5_image><!--4 -->
+       <md5_image>b0493f5a55a0065aebb6c4b91d83ad8d</md5_image><!--5 -->
+       <md5_image>8e23b769100b573f61e9a342efd8ad06</md5_image><!--6 -->
+       <md5_image>36a42c9d7e4e50627fad9eeb7952f4ee</md5_image><!--7 -->
+       <md5_image>f48d803163b0df9d096ef1a529f3e7ef</md5_image><!--8 -->
+       <md5_image>17988ee36d9c32fe96b1bc0df7706454</md5_image><!--9 -->
+       <md5_image>f8500fc1af2ee5356481a27c026fe334</md5_image><!--10-->
+       <md5_image>6828209185c5cf935aa13a7f7c063f23</md5_image><!--11-->
+       <md5_image>014fa0dd9595dbee78c1fbed27c72728</md5_image><!--12-->
+       <md5_image>cc133b39e4f253e0357ed4007ad892e9</md5_image><!--13-->
+       <md5_image>9241d3bc37e19bab13ffd3b720630d45</md5_image><!--14-->
+       <md5_image>78df5e535b627f59ca39aade5b62ee8e</md5_image><!--15-->
+       <md5_image>5aa198fc9476b099a4f33298b57e2401</md5_image><!--16-->
+       <md5_image>b2e86a71fe76257614c236e7016f7e6b</md5_image><!--17-->
+       <md5_image>cc61dab47c22ffa7d820379accaccb3b</md5_image><!--18-->
+       <md5_image>0643274a13c1d4ffd4925de52feedf89</md5_image><!--19-->
+       <md5_image>713d89b7359667f0b482dd9d705e1396</md5_image><!--20-->
+       <md5_image>d4876fd7829fb5bdc4aeaec12813cc23</md5_image><!--21-->
+       <md5_image>7215e9afe6633b8465ed3df971a846d5</md5_image><!--22-->
+       <md5_image>c7e39bbb54818cff56481eeb6da4a25c</md5_image><!--23-->
+       <md5_image>062de2b0d26720c862eb0ef6f9857f7a</md5_image><!--24-->
+       <md5_image>b8141ceb4d3ce5bcea5f4e4f3619dd3c</md5_image><!--25-->
+       <md5_image>aba66b8bff1325ed9b9285631952f6cb</md5_image><!--26-->
+       <md5_image>d62da0231b7fb81d843bb87be6474a28</md5_image><!--27 -->
+       <md5_image>c720f470e674e3473897c82f07d651d9</md5_image><!--28 -->
+       <md5_image>2bf1d33267cc9a461783dc9f63beacff</md5_image><!--29 -->
+       <md5_image>901db73c547e048376f5251690b87d43</md5_image><!--30-->
+       <md5_video>90ae82042871ddc05d4d3251e8158a94</md5_video>
+    <time_version>2021-06-26 11:41</time_version>
+    <time_package>2021-06-26 11:41</time_package>
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-8.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-9.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-10.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-11.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-12.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-13.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-14.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-15.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-16.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-17.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-18.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-19.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-20.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-21.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-22.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-23.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-24.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-25.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-26.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-27.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-28.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-29.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game-30.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/match3game.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/match3game/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20220305/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-8.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-9.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-10.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-11.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-12.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-13.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-14.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-15.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-16.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-17.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-18.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-19.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-20.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-21.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-22.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-23.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-24.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-25.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-26.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-27.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-28.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-29.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game-30.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/match3game.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/match3game/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20220305/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-1.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-2.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-3.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-4.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-5.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-6.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-7.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-8.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-9.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-10.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-11.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-12.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-13.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-14.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-15.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-16.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-17.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-18.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-19.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-20.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-21.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-22.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-23.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-24.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-25.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-26.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-27.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-28.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-29.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game-30.jpg?format=raw</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/match3game.mkv?format=raw</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/match3game/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/game_20220305/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

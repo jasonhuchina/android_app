@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  * 说明
+  *
+  * <package_name>app按照该字段创建目录
+  * <version>备用字段
+  * <release>UPDATE_APK时参考该字段
+  * <md5_apk>更新commonplgn apk文件时参考该字段
+  * <md5_image>UPDATE_IMAGE时参考该字段
+  * <md5_video>UPDATE_VIDEO时参考该字段
+  * <time_version>备用字段
+  * <time_package>备用字段
+  * <url_version>是primary文件，不要修改路径及文件名比较好一些
+  * 更新version.xml时会参考FileMD5
+  * 更新package.xml时会参考FileMD5
+  *
+  * Copyright (c) 2014-2017 qiuqiu software
+  * Copyright (c) 2003-2017 Jason Hu
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.exp3d</package_name>
+     <application>Exp3D</application>
+            <type>plugins.themes</type>
+         <version>1.0.1</version>
+         <release>1.0.1</release>
+          <!--0-->
+         <md5_apk>deadbeefdeadbeefdeadbeefdeadbeef</md5_apk>
+       <md5_image>535f1a65a4729854d55f7f4ac9e5213f</md5_image><!--0-->
+       <md5_image>dbf3c1f8369bae57e4e79d248791e248</md5_image><!--1-->
+       <md5_image>3ce20873dfd05349001d9a63398e8582</md5_image><!--2-->
+       <md5_image>15d33cd428464029749bdcb7313e04dd</md5_image><!--3-->
+       <md5_image>e111f6e9494197b8ed7661582b3767c9</md5_image><!--4-->
+       <md5_image>b32dbfc26fdd5b43e849c7e19b090a00</md5_image><!--5-->
+       <md5_image>8c015cf9ae32878d97b560a6aa2aaa13</md5_image><!--6-->
+       <md5_image>a5fc8586b84332a66afa0440abd82286</md5_image><!--7-->
+       <md5_image>6c6f8504a7c4442894bf79ca6514b308</md5_image><!--8-->
+       <md5_image>a6f6ba1f666e964e3da2cc6791ad3a65</md5_image><!--9-->
+       <md5_image>fe26ec27eb9235ab29bafe3d43f23df6</md5_image><!--10-->
+       <md5_video>949a02abb0be33c8a6bc83772c97c6ed</md5_video>
+    <time_version>2021-06-26 11:41</time_version>
+    <time_package>2021-06-26 11:41</time_package>
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-8.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-9.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D-10.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/Exp3D.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/Exp3D/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20220305/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-8.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-9.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D-10.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/Exp3D.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/Exp3D/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20220305/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-1.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-2.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-3.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-4.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-5.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-6.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-7.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-8.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-9.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D-10.jpg?format=raw</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/Exp3D.mkv?format=raw</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/Exp3D/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/game_20220305/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

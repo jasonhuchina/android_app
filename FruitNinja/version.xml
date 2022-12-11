@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  * 说明
+  *
+  * <package_name>app按照该字段创建目录
+  * <version>备用字段
+  * <release>UPDATE_APK时参考该字段
+  * <md5_apk>更新commonplgn apk文件时参考该字段
+  * <md5_image>UPDATE_IMAGE时参考该字段
+  * <md5_video>UPDATE_VIDEO时参考该字段
+  * <time_version>备用字段
+  * <time_package>备用字段
+  * <url_version>是primary文件，不要修改路径及文件名比较好一些
+  * 更新version.xml时会参考FileMD5
+  * 更新package.xml时会参考FileMD5
+  *
+  * Copyright (c) 2014-2017 qiuqiu software
+  * Copyright (c) 2003-2017 Jason Hu
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.fruitninja</package_name>
+     <application>FruitNinja</application>
+            <type>plugins.themes</type>
+         <version>1.0.1</version>
+         <release>1.0.1</release>
+          <!--0-->
+         <md5_apk>deadbeefdeadbeefdeadbeefdeadbeef</md5_apk>
+       <md5_image>30eabfb3b68a3fda2820385ea71cd5db</md5_image><!--0-->
+       <md5_image>f85188eea9a613ae0f6786223d694c64</md5_image><!--1-->
+       <md5_image>ac020193ed9941b2bb3c37ae30eec25a</md5_image><!--2-->
+       <md5_image>4ef457e8239c6e8a8b29cc7ff9edcba3</md5_image><!--3-->
+       <md5_image>de65a4773b1f001f0ac88bbd09be5f2b</md5_image><!--4-->
+       <md5_image>45273f6706dfda5b78ee17c0b134f9f2</md5_image><!--5-->
+       <md5_image>2c4b3cb483c7cfd65b848867f31e7f8f</md5_image><!--6-->
+       <md5_image>f9a50a3242b21fdc066743ef3062ee88</md5_image><!--7-->
+       <md5_image>e060e9ae77a807a4caf40752ebb9b8ad</md5_image><!--8-->
+       <md5_image>1a098591805e636645883f78e0ebb322</md5_image><!--9-->
+       <md5_image>ed499b0018fa953f642a4b8576860f8d</md5_image><!--10-->
+       <md5_image>603aee2201082381a45cdc46b9864b06</md5_image><!--11-->
+       <md5_image>b5905e8be82cdbff9fa278b8aaf84fc4</md5_image><!--12-->
+       <md5_image>ba49f3edbf1501021f6bc6300e788374</md5_image><!--13-->
+       <md5_image>f656445fecf5c0e269a06f7534010dc7</md5_image><!--14-->
+       <md5_video>0b0f040907d13567e3a8b6244ee5737c</md5_video>
+    <time_version>2021-06-26 11:41</time_version>
+    <time_package>2021-06-26 11:41</time_package>
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-8.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-9.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-10.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-11.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-12.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-13.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja-14.jpg</url_image>
+       <url_video>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/FruitNinja.mkv</url_video>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221117/FruitNinja/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20220305/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-8.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-9.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-10.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-11.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-12.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-13.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja-14.jpg</url_image>
+       <url_video>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/FruitNinja.mkv</url_video>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221117/FruitNinja/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20220305/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-1.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-2.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-3.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-4.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-5.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-6.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-7.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-8.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-9.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-10.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-11.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-12.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-13.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja-14.jpg?format=raw</url_image>
+       <url_video>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/FruitNinja.mkv?format=raw</url_video>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/game_20221117/tree/FruitNinja/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/game_20220305/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>

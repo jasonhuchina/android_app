@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE version SYSTEM "../../../lib/pkp/dtd/pluginVersion.dtd">
+
+<!--
+  * version.xml
+  * 说明
+  *
+  * <package_name>app按照该字段创建目录
+  * <version>备用字段
+  * <release>UPDATE_APK时参考该字段
+  * <md5_apk>更新commonplgn apk文件时参考该字段
+  * <md5_image>UPDATE_IMAGE时参考该字段
+  * <md5_video>UPDATE_VIDEO时参考该字段
+  * <time_version>备用字段
+  * <time_package>备用字段
+  * <url_version>是primary文件，不要修改路径及文件名比较好一些
+  * 更新version.xml时会参考FileMD5
+  * 更新package.xml时会参考FileMD5
+  *
+  * Copyright (c) 2014-2017 qiuqiu software
+  * Copyright (c) 2003-2017 Jason Hu
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * version information.
+  -->
+
+<package>
+    <package_name>com.qiuqiusoftware.chinesechess</package_name>
+     <application>chinesechess</application>
+            <type>plugins.themes</type>
+         <version>1.0.5</version>
+         <release>1.0.5</release>
+          <!--0-->
+         <md5_apk>deadbeefdeadbeefdeadbeefdeadbeef</md5_apk>
+       <md5_image>eb56c9bebdc380c5c23b76178288fba9</md5_image><!--0-->
+       <md5_image>4f11c28bf148f6b0b340b1676037e1d8</md5_image><!--1-->
+       <md5_image>1a67e0d3292fac9bb58a567e00a14f63</md5_image><!--2-->
+       <md5_image>f7c1568927666293a1281e5c1ddab7b9</md5_image><!--3-->
+       <md5_image>4ef69617cd2625b7b525fa8dea1a4f4e</md5_image><!--4-->
+       <md5_image>fe992f31a9f5f9a73360f4f33ef3aad2</md5_image><!--5-->
+       <md5_image>59d0d87fa908a9d21315ad1059f8398d</md5_image><!--6-->
+       <md5_image>1f9fa87b3579efa181f2c68a006c022b</md5_image><!--7-->
+       <md5_image>b326cb1ec72ec5837f8a8afb2fadf41c</md5_image><!--8-->
+       <md5_video>1eb92759e3b3e2e667a6bf024132cd50</md5_video>
+    <time_version>2021-06-26 11:41</time_version>
+    <time_package>2021-06-26 11:41</time_package>
+          <!--1-->
+         <url_apk>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess.apk</url_apk>
+   <url_apk_share>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess.apk</url_apk_share>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-1.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-2.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-3.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-4.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-5.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-6.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-7.jpg</url_image>
+       <url_image>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/chinesechess-8.jpg</url_image>
+     <url_version>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20221108/chinesechess/version.xml</url_version>
+     <url_package>https://raw.githubusercontent.com/jasonhuchina/android_app/game_20220305/package.xml</url_package>
+          <!--2-->
+         <url_apk>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess.apk</url_apk>
+   <url_apk_share>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess.apk</url_apk_share>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-1.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-2.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-3.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-4.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-5.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-6.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-7.jpg</url_image>
+       <url_image>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/chinesechess-8.jpg</url_image>
+     <url_version>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20221108/chinesechess/version.xml</url_version>
+     <url_package>https://gitlab.com/jasonhu.mail.g/android_app/-/raw/game_20220305/package.xml</url_package>
+          <!--3-->
+         <url_apk>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess.apk?format=raw</url_apk>
+   <url_apk_share>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess.apk?format=raw</url_apk_share>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-1.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-2.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-3.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-4.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-5.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-6.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-7.jpg?format=raw</url_image>
+       <url_image>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/chinesechess-8.jpg?format=raw</url_image>
+     <url_version>https://sourceforge.net/p/android-app/code/ci/game_20221108/tree/chinesechess/version.xml?format=raw</url_version>
+     <url_package>https://sourceforge.net/p/android-app/code/ci/game_20220305/tree/package.xml?format=raw</url_package>
+    <lazy-load>1</lazy-load>
+    <class>BootstrapThreeThemePlugin</class>
+</package>
